@@ -1,0 +1,22 @@
+.table-container {
+    margin-top: 20px;
+  }
+  
+  .styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  .styled-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    color: white;
+  }
+  
+  .styled-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  
