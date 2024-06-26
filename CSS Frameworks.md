@@ -58,7 +58,7 @@ For example, in other traditional systems, there would be a class message-warnin
 
 - **Videos:**
 
-    - **[In](https://youtu.be/_9mTJ84uL1Q?feature=shared)****[ Hindi+Project](https://youtu.be/_9mTJ84uL1Q?feature=shared)**
+    - **[In Hindi+Project](https://youtu.be/_9mTJ84uL1Q?feature=shared)**
 
     - **[Hindi+Latest](https://youtu.be/jTzA-REA-N4?feature=shared) (Start from 21:00)**
 
